@@ -22,7 +22,7 @@ Local Execution:
 - Google Colab (Chest_Xray_Prediction.ipynb)
 
 
-Use this for demonstrating model predictions without needing to train a model from scratch.
+Use this for demonstrating model predictions without needing to train a model from scratch
 
 1. Open the Colab notebook here: [🔗 Chest_Xray_Prediction.ipynb (Google Colab)](https://colab.research.google.com/drive/1Y8xJwmfZpLytTJrVoGGl_VgwKCnZXF7z?usp=sharing)
 2. When prompted, upload:
