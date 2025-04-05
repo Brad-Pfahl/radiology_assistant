@@ -7,6 +7,7 @@ This project implements a Convolutional Neural Network (CNN) model to classify c
 
 The project was developed in both PyCharm (local Jupyter environment) and Google Colab (cloud-based) to provide maximum flexibility for execution, testing, and demonstration.
 
+I have included my final write-up on the project. The objective of which was to go through as if proposing the system to a company and following the project descriptions through to completion.
 ## Requirements
 
 Colab Notebook:  
